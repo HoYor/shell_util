@@ -13,3 +13,9 @@
 * 使用：./github_init_repository.sh local_path git_url readme
 
 * 说明：将一个本地文件夹（local_path）同步到一个远程库（git_url），可以添加README文件（可选），里面的文本为“# git库说明”（readme）
+
+### get_apk_info.sh
+
+* 使用：./get_apk_info.sh local_apk_fold_path
+
+* 说明：得到本地文件夹（local_apk_fold_path）里所有apk的信息
